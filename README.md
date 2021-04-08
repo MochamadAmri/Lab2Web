@@ -92,5 +92,31 @@ nav a:hover{
 Setelah browser di refresh
 ![Langkah 4 2](https://user-images.githubusercontent.com/56380838/113967589-73f7d600-985b-11eb-86f5-5df3286c519e.png)
 ## Langkah 5
-
+Menambah CSS Selector dengan menggunakan ID dan Class Selector pada dokumen css eksternal.
+```
+/* ID Selector */
+#intro {
+    background: #418fb1;
+    border: 1px solid #099249;
+    min-height: 100px;
+    padding: 10px;
+}
+#intro h1 {
+    text-align: left;
+    border: 0;
+    color: #fff;
+}
+/* Class Selector */
+.botton {
+    padding: 15px 20px;
+    background: #bebcbd;
+    color: #fff;
+    display: inline-block;
+    margin: 10px;
+    text-decoration: none;
+}
+.btn-primary {
+    background: #e42a42;
+}
+```
 ![Langkah 5](https://user-images.githubusercontent.com/56380838/113967594-78bc8a00-985b-11eb-8a20-7cd33c9efea9.png)
