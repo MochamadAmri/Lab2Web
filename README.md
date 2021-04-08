@@ -34,4 +34,3 @@ Membuat dokumen HTML sebagai berikut :
 </body>
 </html>
 ```
-![Langkah 1](https://user-images.githubusercontent.com/56380838/113966696-c7692480-9859-11eb-8ec0-ce9b5e84bd4f.png)
