@@ -68,7 +68,29 @@ Mendeklarasikan inline CSS pada paragraf atau tag `<p>`.
 ![Langkah 3](https://user-images.githubusercontent.com/56380838/113967535-5e82ac00-985b-11eb-9745-3d6d53ee2125.png)
 ## Langkah 4
 Membuat CSS eksternal dan Kemudian tambahkan tag `<link>` untuk merujuk file css yang sudah dibuat pada bagian `<head>`.
+```
+nav {
+    background: #20A759;
+    color: #fff;
+    padding: 10px;
+}
+nav a {
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 20px;
+}
+nav .active,
+nav a:hover{
+    background: #0B6B3A;
+}
+```
+```
+<!--Menyisipkan css eksternal-->
+    <link rel="stylesheet" href="style_eksternal.css" type="text/css">
+```
 ![Langkah 4,](https://user-images.githubusercontent.com/56380838/113969664-95f35780-985f-11eb-855c-eb23c2e67db5.png)
 Setelah browser di refresh
 ![Langkah 4 2](https://user-images.githubusercontent.com/56380838/113967589-73f7d600-985b-11eb-86f5-5df3286c519e.png)
+## Langkah 5
+
 ![Langkah 5](https://user-images.githubusercontent.com/56380838/113967594-78bc8a00-985b-11eb-8a20-7cd33c9efea9.png)
