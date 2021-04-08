@@ -119,4 +119,5 @@ Menambah CSS Selector dengan menggunakan ID dan Class Selector pada dokumen css 
     background: #e42a42;
 }
 ```
-![Langkah 5](https://user-images.githubusercontent.com/56380838/113967594-78bc8a00-985b-11eb-8a20-7cd33c9efea9.png)
+![Langkah 5](https://user-images.githubusercontent.com/56380838/113970737-955bc080-9861-11eb-9f0f-3c7b39f3f0b5.png)
+
