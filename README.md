@@ -67,6 +67,6 @@ Mendeklarasikan inline CSS pada paragraf atau tag `<p>`.
 ```
 ![Langkah 3](https://user-images.githubusercontent.com/56380838/113967535-5e82ac00-985b-11eb-9745-3d6d53ee2125.png)
 ## Langkah 4
-
+Membuat CSS eksternal dan Kemudian tambahkan tag `<link>` untuk merujuk file css yang sudah dibuat pada bagian `<head>`.
 ![Langkah 4 2](https://user-images.githubusercontent.com/56380838/113967589-73f7d600-985b-11eb-86f5-5df3286c519e.png)
 ![Langkah 5](https://user-images.githubusercontent.com/56380838/113967594-78bc8a00-985b-11eb-8a20-7cd33c9efea9.png)
