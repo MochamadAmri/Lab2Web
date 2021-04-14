@@ -148,4 +148,5 @@ Namun jika isi dari ketiga deklarasi CSSnya sama semua, maka browser hanya akan 
 ```
 Kedua deklarasi tersebut akan tampil, namun selector ID yang akan tampil jika deklarasinya ada yang sama antara ID dan Class.
 ```
+![Pertanyaan 5](https://user-images.githubusercontent.com/56380838/114673125-11597b00-9d30-11eb-83b8-4d87b6913ebb.png)
 
