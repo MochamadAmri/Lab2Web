@@ -120,4 +120,9 @@ Menambah CSS Selector dengan menggunakan ID dan Class Selector pada dokumen css 
 }
 ```
 ![Langkah 5](https://user-images.githubusercontent.com/56380838/113970737-955bc080-9861-11eb-9f0f-3c7b39f3f0b5.png)
+# Pertanyaan :
+1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.
+```
+aza
+```
 
