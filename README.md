@@ -135,9 +135,14 @@ Pendeklarasian CSS elemen h1 mengubah tampilan seluruh elemen yang memiliki tag 
 ```
 Setelah saya mencoba, jika mendeklarasikan CSS pada elemen yang sama namun dengan isi deklarasi yang berbeda, maka semua deklarasi CSS tersebut akan ditampilkan. Contohnya:
 ```
+![Pertanyaan 3](https://user-images.githubusercontent.com/56380838/114668338-d1dc6000-9d2a-11eb-8fd8-f765b3ac444b.png)
+![Pertanyaan 3,2](https://user-images.githubusercontent.com/56380838/114668399-e4569980-9d2a-11eb-805b-d8df3b174e6b.png)
+```
+Namun jika isi dari ketiga deklarasi CSSnya sama semua, maka browser hanya akan menampilkan salah satunya, dengan urutan Inline CSS, Eksternal CSS, dan yang terakhir Internal CSS
+```
+![Pertanyaan 3,3](https://user-images.githubusercontent.com/56380838/114668443-f20c1f00-9d2a-11eb-92e2-c277cddf9b92.png)
+![Pertanyaan 3,4](https://user-images.githubusercontent.com/56380838/114668456-f6383c80-9d2a-11eb-8057-da304dbe4a2e.png)
 
-```
-Namun jika isi dari ketiga deklarasi CSSnya sama semua, maka browser hanya akan menampilkan salah satunya, dengan urutan Inline CSS, Eksternal CSS, dan yang terakhir Internal CSS.
-```
+
 5. Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya!
 
