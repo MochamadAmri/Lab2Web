@@ -123,6 +123,8 @@ Menambah CSS Selector dengan menggunakan ID dan Class Selector pada dokumen css 
 # Pertanyaan :
 1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.
 ```
-aza
+Saya melakukan beberapa eksperimen seperti mengubah nilai yang hasilnya mengubah ukuran ataupun warna dan mengganti background.
+
 ```
+![Eksperimen 2](https://user-images.githubusercontent.com/56380838/114653281-e4966b00-9d11-11eb-8e6c-be77b3bef887.png)
 
