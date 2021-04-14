@@ -145,4 +145,7 @@ Namun jika isi dari ketiga deklarasi CSSnya sama semua, maka browser hanya akan 
 
 
 5. Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya!
+```
+Kedua deklarasi tersebut akan tampil, namun selector ID yang akan tampil jika deklarasinya ada yang sama antara ID dan Class.
+```
 
